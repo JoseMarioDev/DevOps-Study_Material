@@ -11,6 +11,7 @@
 ### DevOps Processes
 
 - phases of DevOps
+
   - plan
   - code (github)
   - build (Maven/Gradle)
@@ -20,3 +21,19 @@
   - operate (Chef/Ansible)
   - Monitor (prometheus? splunk/nagios)
     ![devops tools](/img/devops-tools.png)
+
+- devops cycle
+  ![cycle](/img/ci-cycle.png)
+
+- advantages of devops
+
+  - time to create and deliver software is reduced
+
+- Jenkins installation
+  - install Java Development Kit
+  - set env var for jdk(specific to windows? follow directions for Mac install)
+  - download and install jenkins
+  - run Jenkins localhost:8080
+  - Jenkins server interface
+  - build and run a job on Jenkins
+
